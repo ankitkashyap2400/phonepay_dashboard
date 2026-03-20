@@ -3,7 +3,7 @@
 
 This project is a Power BI dashboard designed to analyze financial transactions across multiple services such as Loans, Insurance, Bills, and Transfers. It provides insights into transaction performance, success/failure rates, and service-wise usage.
 
-🚀 Features
+ Features
 
 📅 Date Range Filter – Analyze data dynamically over time
 
